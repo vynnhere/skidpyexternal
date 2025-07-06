@@ -1,4 +1,4 @@
-# skidpyexternal
+# SkidPYExternal
 An external cheat for the Roblox game written in Python. <br/>
 Current Features:
 - WalkSpeed Changer
