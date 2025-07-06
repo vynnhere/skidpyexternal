@@ -1,5 +1,5 @@
 # skidpyexternal
-An external cheat for the Roblox game written in Python.
+An external cheat for the Roblox game written in Python. <br/>
 Current Features:
 - WalkSpeed Changer
 - JumpPower Changer
@@ -7,3 +7,7 @@ Current Features:
 - Get RenderView
 - Get Workspace
 - Get Humanoid
+
+Requirements:
+- Python
+  - PyMem
